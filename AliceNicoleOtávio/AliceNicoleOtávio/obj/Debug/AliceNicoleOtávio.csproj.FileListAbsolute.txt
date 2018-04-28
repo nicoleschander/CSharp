@@ -1,0 +1,37 @@
+C:\Users\Aluno\Desktop\VisualStudio\AliceNicoleOtávio\AliceNicoleOtávio\bin\Debug\AliceNicoleOtávio.exe.config
+C:\Users\Aluno\Desktop\VisualStudio\AliceNicoleOtávio\AliceNicoleOtávio\bin\Debug\AliceNicoleOtávio.exe
+C:\Users\Aluno\Desktop\VisualStudio\AliceNicoleOtávio\AliceNicoleOtávio\bin\Debug\AliceNicoleOtávio.pdb
+C:\Users\Aluno\Desktop\VisualStudio\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\VisualStudio\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.Form1.resources
+C:\Users\Aluno\Desktop\VisualStudio\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.Properties.Resources.resources
+C:\Users\Aluno\Desktop\VisualStudio\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\VisualStudio\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.exe
+C:\Users\Aluno\Desktop\VisualStudio\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.pdb
+C:\Users\Aluno\Desktop\VisualStudio\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.Vetor.resources
+C:\Users\Aluno\Desktop\VisualStudio\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.Matriz.resources
+C:\Users\brown\OneDrive\Área de Trabalho\AliceNicoleOtávio\AliceNicoleOtávio\bin\Debug\AliceNicoleOtávio.exe.config
+C:\Users\brown\OneDrive\Área de Trabalho\AliceNicoleOtávio\AliceNicoleOtávio\bin\Debug\AliceNicoleOtávio.exe
+C:\Users\brown\OneDrive\Área de Trabalho\AliceNicoleOtávio\AliceNicoleOtávio\bin\Debug\AliceNicoleOtávio.pdb
+C:\Users\brown\OneDrive\Área de Trabalho\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.csprojResolveAssemblyReference.cache
+C:\Users\brown\OneDrive\Área de Trabalho\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.Form1.resources
+C:\Users\brown\OneDrive\Área de Trabalho\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.Matriz.resources
+C:\Users\brown\OneDrive\Área de Trabalho\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.Properties.Resources.resources
+C:\Users\brown\OneDrive\Área de Trabalho\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.Vetor.resources
+C:\Users\brown\OneDrive\Área de Trabalho\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.csproj.GenerateResource.cache
+C:\Users\brown\OneDrive\Área de Trabalho\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.csproj.CoreCompileInputs.cache
+C:\Users\brown\OneDrive\Área de Trabalho\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.exe
+C:\Users\brown\OneDrive\Área de Trabalho\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.pdb
+E:\Documentos\Visual Studio 2015\AliceNicoleOtávio\AliceNicoleOtávio\bin\Debug\AliceNicoleOtávio.exe.config
+E:\Documentos\Visual Studio 2015\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.exe
+E:\Documentos\Visual Studio 2015\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.pdb
+E:\Documentos\Visual Studio 2015\AliceNicoleOtávio\AliceNicoleOtávio\bin\Debug\AliceNicoleOtávio.exe
+E:\Documentos\Visual Studio 2015\AliceNicoleOtávio\AliceNicoleOtávio\bin\Debug\AliceNicoleOtávio.pdb
+E:\Documentos\Visual Studio 2015\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.csprojResolveAssemblyReference.cache
+E:\Documentos\Visual Studio 2015\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.Form1.resources
+E:\Documentos\Visual Studio 2015\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.Matriz.resources
+E:\Documentos\Visual Studio 2015\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.Properties.Resources.resources
+E:\Documentos\Visual Studio 2015\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.Vetor.resources
+E:\Documentos\Visual Studio 2015\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.csproj.GenerateResource.Cache
+C:\Users\nicol\Desktop\AliceNicoleOtávio\AliceNicoleOtávio\bin\Debug\AliceNicoleOtávio.exe.config
+C:\Users\nicol\Desktop\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.exe
+C:\Users\nicol\Desktop\AliceNicoleOtávio\AliceNicoleOtávio\obj\Debug\AliceNicoleOtávio.pdb
